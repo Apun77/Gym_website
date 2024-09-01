@@ -1,0 +1,177 @@
+.membership{
+  height: 43rem;
+  width: 100vw;
+  
+}
+
+.heading5{
+  height: 5rem;
+  width: 100vw;
+  
+  font-size:2rem;
+ padding-left: 26rem;
+ padding-top: 0.5rem;
+ 
+
+}
+
+.heading5:hover{
+  color: orangered;
+}
+
+.bmember{
+  height: 36rem;
+  width: 100vw;
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.plan{
+  margin-top: 2.7rem;
+  height: 31rem;
+  width: 25rem;
+  background-color: rgb(42, 42, 43);
+  border: 2px solid white;
+  border-radius: 1.5rem;
+}
+
+.plan:hover{
+  background-color: red;
+  
+}
+
+.plan1{
+  margin-top: 1rem;
+  
+  height: 35rem;
+  width: 28rem;
+  background-color:orangered;
+  border: 2px solid white;
+  border-radius: 1.5rem;
+  
+}
+
+.plan1 .head6{
+  margin-left: 9rem;
+  margin-top:-1rem ;
+  
+}
+
+.bar{
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.head6{
+  height: 3rem;
+  width: 10rem;
+  background-color:white;
+
+  border: none;
+ 
+  color: black;
+  border-radius: 3rem;
+  padding-top: 0.6rem;
+
+}
+
+.headingg{
+  height: 5rem;
+  width: 25rem;
+  font-weight: 600;
+  text-align: center;
+  font-size: 1.3rem;
+  padding-top: 1rem;
+}
+.mid{
+  margin-top: 1rem;
+}
+
+.mid h3{
+  font-size: 2rem;
+}
+
+.mid1{
+  margin-top: 1rem;
+}
+.mid1 h3{
+  font-size: 2rem;
+}
+
+.mid span{
+  font-size: 4rem;
+  padding-left: 4rem;
+  
+}
+
+.mid1 span{
+  font-size: 4rem;
+  padding-left: 4rem;
+}
+
+.last ul{
+  list-style: none;
+  font-size: 1.3rem;
+  text-align:  center;
+  padding-top: 3rem;
+}
+
+.last1 ul{
+  list-style: none;
+  font-size: 1.3rem;
+  text-align:  center;
+  padding-top: 3rem;
+}
+
+.chooseplan{
+  height: 3rem;
+  width: 8rem;
+  font-size: 1.1rem;
+  border: 2px solid black;
+  border-radius: 3rem;
+  align-items: center;
+  margin-left: 8rem;
+  margin-top: 2rem;
+  font-weight: 600;
+
+}
+
+.chooseplan:hover{
+  background-color:red;
+}
+
+.headingg1{
+  margin-top: 1rem;
+  height: 4rem;
+  width:28rem;
+
+  font-weight: 600;
+  text-align: center;
+  font-size: 1.3rem;
+  
+}
+
+.last1 ul li{
+  list-style: none;
+  font-size: 1.6rem;
+  text-align:  center;
+  
+}
+
+.chooseplan1{
+  height: 3.2rem;
+  width: 9rem;
+  font-size: 1.3rem;
+  border: 2px solid black;
+  border-radius: 3rem;
+  align-items: center;
+  margin-left: 9.2rem;
+  margin-top: 3.5rem;
+  font-weight: 600;
+
+}
+
+.chooseplan1:hover{
+  background-color: orangered;
+}

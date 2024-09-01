@@ -1,0 +1,92 @@
+.foot{
+  height: 26rem;
+  width: 100vw;
+ 
+
+}
+
+.contact{
+  height: 20rem;
+  width: 100vw;
+ 
+  display: flex;
+}
+
+.group{
+  height: 20rem;
+  width: 17rem;
+
+  margin-left: 0.5rem;
+  margin-top: 3rem;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+ 
+}
+
+.head7 h2{
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.details ul li{
+  list-style: none;
+  font-size: 1.4rem;
+  padding-top: 1.3rem;
+  text-align: center;
+
+}
+
+.email input {
+  height: 2.5rem;
+  width: 13rem;
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 2rem;
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.send{
+  height: 2rem;
+  width: 6rem;
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 2rem;
+  text-align: center;
+  margin-left: 4rem;
+  margin-top: 0.5rem;
+}
+
+.email h4{
+  font-size: 1.4rem;
+  padding-top: 1.3rem;
+  text-align: center;
+}
+
+.footer{
+
+  height: 6rem;
+  width: 100vw;
+  background-color: rgb(17, 16, 16);
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.3rem;
+  padding-left: 2rem;
+  padding-top: 1.5rem;
+  padding-right: 2.5rem;
+  
+}
+
+.social i{
+  font-size: 2rem;
+  padding-left: 1rem;
+  
+}
+
+.logo1 span{
+  color: orangered;
+}
+

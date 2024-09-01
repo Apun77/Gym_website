@@ -1,0 +1,61 @@
+.navbar{
+  height: 4rem;
+  width: 100vw;
+  background-color:transparent;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+
+.logo{
+  margin-left: 7rem;
+  padding-top: 0.6rem;
+
+}
+
+.logo span{
+  color: orangered;
+}
+
+.list{
+ margin-top: 1rem;
+ margin-right: 2.5rem;
+ margin-left: 18rem;
+ 
+}
+
+
+.items{
+  font-size: 1.3rem;
+  text-align: right;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 3rem;
+  font-weight: 600;
+}
+
+.items:hover{
+  color: orangered;
+  
+}
+
+.btn1{
+  height: 2.5rem;
+  width: 8rem;
+  border: 2px solid orangered;
+  border-radius: 3rem; 
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+
+}
+
+.btn1:hover{
+  background-color: orangered;
+
+  border-bottom: 3px solid white;
+  border-right: 3px solid white;
+}

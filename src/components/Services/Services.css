@@ -1,0 +1,101 @@
+.services{
+  height: 40rem;
+  width: 100vw;
+  background-color:transparent;
+ 
+}
+.top{
+  height: 10rem;
+  width: 100vw;
+  display: flex;
+}
+
+
+.heading2{
+  height: 10rem;
+  width: 50vw;
+  background-color:transparent;
+  font-size: 2rem;
+  padding-top: 0.5rem;
+  padding-left: 8rem;
+}
+
+.heading2:hover{
+  color: orangered;
+}
+
+.subhead{
+  height: 10rem;
+  width: 45vw;
+  border-radius: 5rem;
+  background-color:orangered;
+  border: 5px solid white;
+  font-size: 1.3rem;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.subhead:hover{
+  background-color:white;
+  color: black;
+  border: 5px solid orangered; 
+}
+
+.bottom{
+  height: 30rem;
+  width: 100vw;
+ 
+}
+
+.cards{
+  height:30rem;
+  width: 100vw;
+  margin-top: 3rem;
+  background-color:transparent;
+  display: flex;
+
+}
+
+.box{
+  height: 25rem;
+  width:20rem;
+  background-color:white;
+  color: black;
+  border-radius: 5rem;
+  border:4px solid orangered;
+  box-shadow: 0 0 25px orangered;
+  
+  margin-left: 2.3rem;
+  margin-top: 1rem;
+
+}
+
+.one img{
+  padding-top: 1rem;
+  height: 6rem;
+  width: 6rem;
+margin-left: 2.5rem;
+margin-top: 0.5rem;
+
+}
+
+.two h3{
+ font-size: 2.4rem;
+ padding-top: 2rem;
+ padding-left: 1rem;
+}
+
+.three p{
+  font-size: 1.3rem;
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.box:hover{
+  background-color: orangered;
+  box-shadow: 0 0 25px white;
+  border-bottom: 5px solid white;
+  border-right: 5px solid white;
+}
